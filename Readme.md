@@ -20,3 +20,6 @@
 30. git checkout -b bug-fix-experimental
 31. vi Readme.md
 32. git commit -m "Commit 7"
+33. vi Readme.md
+34. git add Readme.md
+35. git commit -m "Commit 8"
