@@ -51,3 +51,17 @@
 45. vi Readme.md
 46. git add Readme.md
 47. git commit -m "Commit 11"
+48. $ vi Readme.md
+49. $ git add Readme.md
+50. $ git commit -m "Commit 12"
+51. $ git checkout master
+52. $ git merge bugfix
+53. $ vi Readme.md
+54. $ git merge 960735be99077be033ca5c0d3a4af0837e0696bd
+55. $ vi Readme.md
+56. $ git add Readme.md
+57. $ git commit -m "Commit 13"
+58. git add graph.png
+59. vi Readme.md
+60. $ git add Readme.md
+61. $ git commit -m "Commit 14"
