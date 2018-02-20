@@ -11,3 +11,6 @@
 5. git add Readme.md
 6. git status
 7. git commit -m "Commit 0"
+8. vi Readme.md
+9. git add Readme.md
+10. git commit -m "Commit 1"
