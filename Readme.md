@@ -29,3 +29,13 @@
 23. vi Readme.md
 24. git add Readme.md
 25. git commit -m "Commit 5"
+26. vi Readme.md
+27. git add Readme.md
+28. git commit -m "Commit 6"
+29. git checkout 6d54a1e42d0ac4cf5c60ef025f2087e72871c04d
+30. git checkout -b bug-fix-experimental
+31. vi Readme.md
+32. git commit -m "Commit 7"
+33. vi Readme.md
+34. git add Readme.md
+35. git commit -m "Commit 8"
