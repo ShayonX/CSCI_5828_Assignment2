@@ -39,3 +39,15 @@
 33. vi Readme.md
 34. git add Readme.md
 35. git commit -m "Commit 8"
+36. vi Readme.md
+37. git add Readme.md
+38. commit -m "Commit 9"
+39. git checkout master
+40. vi Readme.md
+41. git add Readme.md
+42. git commit -m "Commit 10"
+43. git checkout bug-fix
+44. git merge bug-fix-experimental
+45. vi Readme.md
+46. git add Readme.md
+47. git commit -m "Commit 11"
