@@ -26,3 +26,6 @@
 20. git add Readme.md
 21. git commit -m "Commit 4"
 22. git merge master
+23. vi Readme.md
+24. git add Readme.md
+25. git commit -m "Commit 5"
